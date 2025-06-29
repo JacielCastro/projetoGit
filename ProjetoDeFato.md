@@ -1,1 +1,1 @@
-nesse arqquivo vou criar um pequeno projeto, para começa coloca a mão na massa.
+nesse arquivo vou criar um pequeno projeto, para começa coloca a mão na massa.
